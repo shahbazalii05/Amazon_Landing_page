@@ -10,7 +10,9 @@ Welcome to the Amazon Landing page project!  Built with HTML, CSS, and JavaScrip
 - CSS: For styling and ensuring a visually appealing layout.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shahbaz._.alii?igsh=MW4wbGxwZmd3MDg4bg==)
 
 ## 💻 Tech Stack:
 
