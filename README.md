@@ -49,6 +49,6 @@ Prerequisites
 Installation
 Clone the repository:
 
-- git clone https://github.com/your-username/Amazon_Landing_page.git
+- git clone https://github.com/shahbazalii05/Amazon_Landing_page.git
 - cd Amazon_Landing_page
 - Open index.html in your web browser.
