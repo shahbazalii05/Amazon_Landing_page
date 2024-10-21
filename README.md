@@ -10,9 +10,7 @@ Welcome to the Amazon Landing page project!  Built with HTML, CSS, and JavaScrip
 - CSS: For styling and ensuring a visually appealing layout.
 
 ## 🌐 Socials:
-[Shahbaz Ali - LinkedIn](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
-[![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
-[![fiverr](https://img.shields.io/badge/fiverr-%230769AD.svg?logo=fiverr&logoColor=green)](https://www.fiverr.com/gold_medalist?source=gig_page)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
 
 ## 💻 Tech Stack:
 
@@ -51,9 +49,6 @@ Prerequisites
 Installation
 Clone the repository:
 
-- git clone https://github.com/your-username/weather-site.git
-- cd weather-site
+- git clone https://github.com/your-username/Amazon_Landing_page.git
+- cd Amazon_Landing_page
 - Open index.html in your web browser.
-
-## Figma Design Link
-https://www.figma.com/design/GwRmx1FJ31evTNq6hpCpCs/Amazing-Mountain?node-id=0-1&node-type=canvas&t=mX9eR1KaCDykAO6W-0
